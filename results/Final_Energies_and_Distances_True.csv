@@ -1,0 +1,414 @@
+Complex_Name,Protein,Ligand,Delta_G (kcal/mol),Closest_Cys_ID,Distance_to_CHO (A)
+A7_57_S-3-oxopropylglutathione,A7.pdb,57_S-3-oxopropylglutathione.sdf,-6.09,318,4.803
+A7_58_S-(4-oxobutan-2-yl)glutathione,A7.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-6.08,318,4.152
+A7_56_S-hydroxy-methylglutathione,A7.pdb,56_S-hydroxy-methylglutathione.sdf,-6.07,318,4.192
+A7_37_thiobenzaldehyde,A7.pdb,37_thiobenzaldehyde.sdf,-6.03,,
+A7_59_4-Hydroxynonenal_glutathione,A7.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.99,318,8.909
+A4_58_S-(4-oxobutan-2-yl)glutathione,A4.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.99,318,3.537
+A2_57_S-3-oxopropylglutathione,A2.pdb,57_S-3-oxopropylglutathione.sdf,-5.96,281,5.395
+A4_56_S-hydroxy-methylglutathione,A4.pdb,56_S-hydroxy-methylglutathione.sdf,-5.96,319,3.4
+A6_37_thiobenzaldehyde,A6.pdb,37_thiobenzaldehyde.sdf,-5.91,,
+A4_37_thiobenzaldehyde,A4.pdb,37_thiobenzaldehyde.sdf,-5.91,,
+A4_57_S-3-oxopropylglutathione,A4.pdb,57_S-3-oxopropylglutathione.sdf,-5.87,319,2.851
+A2_60_S-Formylglutathione,A2.pdb,60_S-Formylglutathione.sdf,-5.86,282,2.715
+A3_57_S-3-oxopropylglutathione,A3.pdb,57_S-3-oxopropylglutathione.sdf,-5.83,313,5.231
+A3_52_Triose phosphate,A3.pdb,52_Triose phosphate.sdf,-5.82,314,4.606
+A2_40_Furan-2-carbaldehyde,A2.pdb,40_Furan-2-carbaldehyde.sdf,-5.81,282,3.948
+A3_60_S-Formylglutathione,A3.pdb,60_S-Formylglutathione.sdf,-5.8,314,3.807
+A3_56_S-hydroxy-methylglutathione,A3.pdb,56_S-hydroxy-methylglutathione.sdf,-5.79,313,5.974
+A7_60_S-Formylglutathione,A7.pdb,60_S-Formylglutathione.sdf,-5.78,318,4.657
+A2_52_Triose phosphate,A2.pdb,52_Triose phosphate.sdf,-5.78,282,4.371
+A6_58_S-(4-oxobutan-2-yl)glutathione,A6.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.77,466,2.279
+A2_37_thiobenzaldehyde,A2.pdb,37_thiobenzaldehyde.sdf,-5.77,,
+A4_52_Triose phosphate,A4.pdb,52_Triose phosphate.sdf,-5.72,319,7.751
+A7_52_Triose phosphate,A7.pdb,52_Triose phosphate.sdf,-5.7,319,7.831
+A5_37_thiobenzaldehyde,A5.pdb,37_thiobenzaldehyde.sdf,-5.69,,
+A6_52_Triose phosphate,A6.pdb,52_Triose phosphate.sdf,-5.65,466,6.567
+A2_53_Pyridoxal phosphate,A2.pdb,53_Pyridoxal phosphate.sdf,-5.64,281,5.519
+A6_56_S-hydroxy-methylglutathione,A6.pdb,56_S-hydroxy-methylglutathione.sdf,-5.64,466,2.732
+A1_56_S-hydroxy-methylglutathione,A1.pdb,56_S-hydroxy-methylglutathione.sdf,-5.63,302,6.182
+A1_60_S-Formylglutathione,A1.pdb,60_S-Formylglutathione.sdf,-5.63,126,8.383
+A1_58_S-(4-oxobutan-2-yl)glutathione,A1.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.63,302,6.78
+A3_58_S-(4-oxobutan-2-yl)glutathione,A3.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.62,314,6.013
+A6_60_S-Formylglutathione,A6.pdb,60_S-Formylglutathione.sdf,-5.61,466,6.251
+A1_57_S-3-oxopropylglutathione,A1.pdb,57_S-3-oxopropylglutathione.sdf,-5.6,302,6.609
+A7_10_4-guanidinobutyraldehyde,A7.pdb,10_4-guanidinobutyraldehyde.sdf,-5.59,318,3.445
+A7_42_Glutamate-5-semialdehyde,A7.pdb,42_Glutamate-5-semialdehyde.sdf,-5.58,319,3.006
+A7_48_alpha-aminoadipate semialdehyde,A7.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.56,319,3.09
+A4_60_S-Formylglutathione,A4.pdb,60_S-Formylglutathione.sdf,-5.54,319,12.454
+A2_58_S-(4-oxobutan-2-yl)glutathione,A2.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.53,281,5.923
+A4_49_2-Aminomuconic semialdehyde,A4.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.51,318,3.811
+A5_40_Furan-2-carbaldehyde,A5.pdb,40_Furan-2-carbaldehyde.sdf,-5.5,86,6.277
+A7_50_10-formyltetrahydrofolate,A7.pdb,50_10-formyltetrahydrofolate.sdf,-5.5,318,4.624
+A3_59_4-Hydroxynonenal_glutathione,A3.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.5,314,3.996
+A4_51_6R-Tetrahydrofolic acid,A4.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.49,318,5.084
+A2_50_10-formyltetrahydrofolate,A2.pdb,50_10-formyltetrahydrofolate.sdf,-5.48,282,3.618
+A7_41_Indole-3-acetaldehyde,A7.pdb,41_Indole-3-acetaldehyde.sdf,-5.48,318,3.719
+A7_43_Glutamate-1-semialdehyde,A7.pdb,43_Glutamate-1-semialdehyde.sdf,-5.48,319,4.075
+A5_34_4-hydroxy-2-nonenal,A5.pdb,34_4-hydroxy-2-nonenal.sdf,-5.46,86,6.695
+A4_18_decanal,A4.pdb,18_decanal.sdf,-5.46,319,2.226
+A6_57_S-3-oxopropylglutathione,A6.pdb,57_S-3-oxopropylglutathione.sdf,-5.46,466,5.878
+A3_2_acetaldehyde,A3.pdb,2_acetaldehyde.sdf,-5.45,314,2.935
+A7_39_4-nitrobenzaldehyde,A7.pdb,39_4-nitrobenzaldehyde.sdf,-5.45,318,4.578
+A5_18_decanal,A5.pdb,18_decanal.sdf,-5.45,86,5.389
+A3_13_(2E)-but-2-enal,A3.pdb,13_(2E)-but-2-enal.sdf,-5.45,314,3.174
+A5_6_amylaldehyde,A5.pdb,6_amylaldehyde.sdf,-5.45,86,7.062
+A4_19_dodecanal,A4.pdb,19_dodecanal.sdf,-5.45,319,15.479
+A4_3_propylaldehyde,A4.pdb,3_propylaldehyde.sdf,-5.45,319,2.719
+A5_29_Salicylaldehyde,A5.pdb,29_Salicylaldehyde.sdf,-5.45,86,7.096
+A3_55_Ethanol,A3.pdb,55_Ethanol.sdf,-5.45,314,3.298
+A5_28_Phenylacetaldehyde,A5.pdb,28_Phenylacetaldehyde.sdf,-5.45,86,6.79
+A5_35_Cinnamaldehyde,A5.pdb,35_Cinnamaldehyde.sdf,-5.45,86,7.166
+A4_42_Glutamate-5-semialdehyde,A4.pdb,42_Glutamate-5-semialdehyde.sdf,-5.45,319,2.838
+A5_17_nonanal,A5.pdb,17_nonanal.sdf,-5.44,86,6.627
+A7_47_methylmalonate semialdehyde,A7.pdb,47_methylmalonate semialdehyde.sdf,-5.44,319,2.91
+A5_4_malonaldehyde,A5.pdb,4_malonaldehyde.sdf,-5.44,86,4.697
+A4_55_Ethanol,A4.pdb,55_Ethanol.sdf,-5.44,319,3.343
+A4_20_Citral,A4.pdb,20_Citral.sdf,-5.44,319,4.246
+A5_7_glutaraldehyde,A5.pdb,7_glutaraldehyde.sdf,-5.44,86,5.058
+A2_45_adipate semialdehyde,A2.pdb,45_adipate semialdehyde.sdf,-5.44,282,3.222
+A5_5_butyraldehyde,A5.pdb,5_butyraldehyde.sdf,-5.44,86,8.207
+A4_9_2-hydroxypropionaldehyde,A4.pdb,9_2-hydroxypropionaldehyde.sdf,-5.44,319,2.309
+A5_15_heptanal,A5.pdb,15_heptanal.sdf,-5.44,86,7.65
+A4_29_Salicylaldehyde,A4.pdb,29_Salicylaldehyde.sdf,-5.44,319,3.537
+A4_2_acetaldehyde,A4.pdb,2_acetaldehyde.sdf,-5.44,319,2.141
+A3_47_methylmalonate semialdehyde,A3.pdb,47_methylmalonate semialdehyde.sdf,-5.44,314,3.596
+A3_11_prop-2-enal,A3.pdb,11_prop-2-enal.sdf,-5.44,314,2.768
+A3_9_2-hydroxypropionaldehyde,A3.pdb,9_2-hydroxypropionaldehyde.sdf,-5.44,314,2.577
+A4_36_3-(4-Isopropylphenyl)-2-methylpropanal,A4.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.44,319,3.196
+A5_27_Benzaldehyde,A5.pdb,27_Benzaldehyde.sdf,-5.44,86,7.476
+A3_4_malonaldehyde,A3.pdb,4_malonaldehyde.sdf,-5.44,314,2.904
+A3_25_hexadecanal,A3.pdb,25_hexadecanal.sdf,-5.44,313,6.435
+A5_47_methylmalonate semialdehyde,A5.pdb,47_methylmalonate semialdehyde.sdf,-5.44,86,5.128
+"A4_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A4.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.44,319,7.67
+A7_2_acetaldehyde,A7.pdb,2_acetaldehyde.sdf,-5.44,319,3.085
+A4_47_methylmalonate semialdehyde,A4.pdb,47_methylmalonate semialdehyde.sdf,-5.44,319,2.627
+A4_46_Succinic semialdehyde,A4.pdb,46_Succinic semialdehyde.sdf,-5.44,319,1.958
+A5_2_acetaldehyde,A5.pdb,2_acetaldehyde.sdf,-5.44,86,4.141
+A5_36_3-(4-Isopropylphenyl)-2-methylpropanal,A5.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.44,86,5.845
+A3_3_propylaldehyde,A3.pdb,3_propylaldehyde.sdf,-5.44,314,3.271
+A3_44_glutarate semialdehyde,A3.pdb,44_glutarate semialdehyde.sdf,-5.44,314,2.871
+A1_47_methylmalonate semialdehyde,A1.pdb,47_methylmalonate semialdehyde.sdf,-5.44,303,3.228
+A1_45_adipate semialdehyde,A1.pdb,45_adipate semialdehyde.sdf,-5.44,303,3.75
+A7_3_propylaldehyde,A7.pdb,3_propylaldehyde.sdf,-5.44,319,3.054
+A1_24_Tetradecanal,A1.pdb,24_Tetradecanal.sdf,-5.44,303,16.51
+A7_4_malonaldehyde,A7.pdb,4_malonaldehyde.sdf,-5.43,319,2.978
+A7_51_6R-Tetrahydrofolic acid,A7.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.43,318,4.624
+A3_26_trans-2-hexadecenal,A3.pdb,26_trans-2-hexadecenal.sdf,-5.43,313,5.693
+A5_45_adipate semialdehyde,A5.pdb,45_adipate semialdehyde.sdf,-5.43,86,5.629
+A5_46_Succinic semialdehyde,A5.pdb,46_Succinic semialdehyde.sdf,-5.43,86,5.619
+A2_27_Benzaldehyde,A2.pdb,27_Benzaldehyde.sdf,-5.43,282,3.559
+A1_6_amylaldehyde,A1.pdb,6_amylaldehyde.sdf,-5.43,303,4.274
+A1_9_2-hydroxypropionaldehyde,A1.pdb,9_2-hydroxypropionaldehyde.sdf,-5.43,303,2.818
+A2_24_Tetradecanal,A2.pdb,24_Tetradecanal.sdf,-5.43,281,6.095
+A4_48_alpha-aminoadipate semialdehyde,A4.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.43,318,4.098
+"A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A1.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.43,303,7.058
+A2_2_acetaldehyde,A2.pdb,2_acetaldehyde.sdf,-5.43,282,3.199
+A5_8_hexanal,A5.pdb,8_hexanal.sdf,-5.43,86,7.27
+A5_13_(2E)-but-2-enal,A5.pdb,13_(2E)-but-2-enal.sdf,-5.43,86,5.098
+A4_25_hexadecanal,A4.pdb,25_hexadecanal.sdf,-5.43,319,12.676
+A4_27_Benzaldehyde,A4.pdb,27_Benzaldehyde.sdf,-5.43,319,3.235
+A5_16_octanaldehyde,A5.pdb,16_octanaldehyde.sdf,-5.43,86,7.0
+A5_22_trans-2-Octenal,A5.pdb,22_trans-2-Octenal.sdf,-5.43,86,7.937
+A4_11_prop-2-enal,A4.pdb,11_prop-2-enal.sdf,-5.43,319,3.673
+A4_13_(2E)-but-2-enal,A4.pdb,13_(2E)-but-2-enal.sdf,-5.43,319,2.85
+A3_46_Succinic semialdehyde,A3.pdb,46_Succinic semialdehyde.sdf,-5.43,314,2.724
+A2_11_prop-2-enal,A2.pdb,11_prop-2-enal.sdf,-5.43,282,3.094
+A2_55_Ethanol,A2.pdb,55_Ethanol.sdf,-5.43,282,3.798
+A2_8_hexanal,A2.pdb,8_hexanal.sdf,-5.43,282,4.92
+A2_59_4-Hydroxynonenal_glutathione,A2.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.43,435,9.646
+A1_28_Phenylacetaldehyde,A1.pdb,28_Phenylacetaldehyde.sdf,-5.43,163,16.611
+A7_36_3-(4-Isopropylphenyl)-2-methylpropanal,A7.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.43,319,3.769
+"A7_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A7.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.43,319,7.828
+A7_46_Succinic semialdehyde,A7.pdb,46_Succinic semialdehyde.sdf,-5.43,319,3.529
+A7_9_2-hydroxypropionaldehyde,A7.pdb,9_2-hydroxypropionaldehyde.sdf,-5.43,319,2.691
+A6_4_malonaldehyde,A6.pdb,4_malonaldehyde.sdf,-5.42,466,2.945
+A6_1_formaldehyde,A6.pdb,1_formaldehyde.sdf,-5.42,466,2.886
+"A3_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A3.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.42,314,5.052
+A3_37_thiobenzaldehyde,A3.pdb,37_thiobenzaldehyde.sdf,-5.42,,
+A3_36_3-(4-Isopropylphenyl)-2-methylpropanal,A3.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.42,314,4.937
+A3_34_4-hydroxy-2-nonenal,A3.pdb,34_4-hydroxy-2-nonenal.sdf,-5.42,314,5.291
+A3_23_4-Hydroxynonenal,A3.pdb,23_4-Hydroxynonenal.sdf,-5.42,314,4.64
+A2_18_decanal,A2.pdb,18_decanal.sdf,-5.42,281,7.301
+A2_3_propylaldehyde,A2.pdb,3_propylaldehyde.sdf,-5.42,282,3.273
+A5_55_Ethanol,A5.pdb,55_Ethanol.sdf,-5.42,86,8.438
+A7_25_hexadecanal,A7.pdb,25_hexadecanal.sdf,-5.42,318,6.327
+A6_41_Indole-3-acetaldehyde,A6.pdb,41_Indole-3-acetaldehyde.sdf,-5.42,466,5.772
+"A4_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A4.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.42,318,7.074
+A4_28_Phenylacetaldehyde,A4.pdb,28_Phenylacetaldehyde.sdf,-5.42,179,16.62
+A5_9_2-hydroxypropionaldehyde,A5.pdb,9_2-hydroxypropionaldehyde.sdf,-5.42,86,7.893
+A5_60_S-Formylglutathione,A5.pdb,60_S-Formylglutathione.sdf,-5.42,86,7.229
+A5_56_S-hydroxy-methylglutathione,A5.pdb,56_S-hydroxy-methylglutathione.sdf,-5.42,86,5.962
+A3_21_cis-2-Octenal,A3.pdb,21_cis-2-Octenal.sdf,-5.42,314,2.658
+A4_21_cis-2-Octenal,A4.pdb,21_cis-2-Octenal.sdf,-5.42,319,2.493
+A4_16_octanaldehyde,A4.pdb,16_octanaldehyde.sdf,-5.42,318,5.342
+A1_7_glutaraldehyde,A1.pdb,7_glutaraldehyde.sdf,-5.42,303,2.73
+A7_45_adipate semialdehyde,A7.pdb,45_adipate semialdehyde.sdf,-5.42,318,3.644
+A3_8_hexanal,A3.pdb,8_hexanal.sdf,-5.42,313,4.632
+A3_7_glutaraldehyde,A3.pdb,7_glutaraldehyde.sdf,-5.42,314,3.579
+A3_6_amylaldehyde,A3.pdb,6_amylaldehyde.sdf,-5.42,314,4.261
+A3_5_butyraldehyde,A3.pdb,5_butyraldehyde.sdf,-5.42,314,4.272
+"A5_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A5.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.42,86,6.66
+A7_1_formaldehyde,A7.pdb,1_formaldehyde.sdf,-5.42,319,2.535
+A1_2_acetaldehyde,A1.pdb,2_acetaldehyde.sdf,-5.42,303,2.821
+A1_8_hexanal,A1.pdb,8_hexanal.sdf,-5.42,303,4.04
+A4_24_Tetradecanal,A4.pdb,24_Tetradecanal.sdf,-5.42,319,1.861
+A2_29_Salicylaldehyde,A2.pdb,29_Salicylaldehyde.sdf,-5.42,282,3.643
+A2_26_trans-2-hexadecenal,A2.pdb,26_trans-2-hexadecenal.sdf,-5.42,281,7.235
+A1_21_cis-2-Octenal,A1.pdb,21_cis-2-Octenal.sdf,-5.42,303,2.853
+A1_20_Citral,A1.pdb,20_Citral.sdf,-5.42,302,4.758
+A1_5_butyraldehyde,A1.pdb,5_butyraldehyde.sdf,-5.42,303,3.636
+A1_55_Ethanol,A1.pdb,55_Ethanol.sdf,-5.42,303,3.58
+A1_46_Succinic semialdehyde,A1.pdb,46_Succinic semialdehyde.sdf,-5.42,303,3.981
+A1_3_propylaldehyde,A1.pdb,3_propylaldehyde.sdf,-5.42,303,3.282
+A1_37_thiobenzaldehyde,A1.pdb,37_thiobenzaldehyde.sdf,-5.42,,
+A2_56_S-hydroxy-methylglutathione,A2.pdb,56_S-hydroxy-methylglutathione.sdf,-5.42,281,6.134
+A2_47_methylmalonate semialdehyde,A2.pdb,47_methylmalonate semialdehyde.sdf,-5.42,282,2.757
+A2_46_Succinic semialdehyde,A2.pdb,46_Succinic semialdehyde.sdf,-5.42,282,2.585
+A2_44_glutarate semialdehyde,A2.pdb,44_glutarate semialdehyde.sdf,-5.42,282,3.821
+A4_4_malonaldehyde,A4.pdb,4_malonaldehyde.sdf,-5.42,319,3.514
+A3_19_dodecanal,A3.pdb,19_dodecanal.sdf,-5.42,313,6.163
+A3_18_decanal,A3.pdb,18_decanal.sdf,-5.42,313,4.887
+A3_14_trans-2-Hexenal,A3.pdb,14_trans-2-Hexenal.sdf,-5.42,313,5.187
+A2_7_glutaraldehyde,A2.pdb,7_glutaraldehyde.sdf,-5.42,282,3.65
+A2_5_butyraldehyde,A2.pdb,5_butyraldehyde.sdf,-5.42,282,4.29
+A4_12_prop-2-ynal,A4.pdb,12_prop-2-ynal.sdf,-5.42,319,2.402
+A3_12_prop-2-ynal,A3.pdb,12_prop-2-ynal.sdf,-5.42,314,2.669
+A1_27_Benzaldehyde,A1.pdb,27_Benzaldehyde.sdf,-5.42,303,3.88
+A1_26_trans-2-hexadecenal,A1.pdb,26_trans-2-hexadecenal.sdf,-5.42,163,17.506
+A1_13_(2E)-but-2-enal,A1.pdb,13_(2E)-but-2-enal.sdf,-5.42,303,3.87
+A1_12_prop-2-ynal,A1.pdb,12_prop-2-ynal.sdf,-5.42,303,2.821
+A7_12_prop-2-ynal,A7.pdb,12_prop-2-ynal.sdf,-5.42,319,2.648
+A7_21_cis-2-Octenal,A7.pdb,21_cis-2-Octenal.sdf,-5.42,319,2.271
+A1_17_nonanal,A1.pdb,17_nonanal.sdf,-5.42,163,17.149
+A2_14_trans-2-Hexenal,A2.pdb,14_trans-2-Hexenal.sdf,-5.42,282,6.039
+A5_20_Citral,A5.pdb,20_Citral.sdf,-5.42,86,5.622
+A4_7_glutaraldehyde,A4.pdb,7_glutaraldehyde.sdf,-5.42,319,4.138
+A4_15_heptanal,A4.pdb,15_heptanal.sdf,-5.42,179,16.744
+A5_14_trans-2-Hexenal,A5.pdb,14_trans-2-Hexenal.sdf,-5.42,86,8.309
+A3_45_adipate semialdehyde,A3.pdb,45_adipate semialdehyde.sdf,-5.42,314,4.503
+A2_9_2-hydroxypropionaldehyde,A2.pdb,9_2-hydroxypropionaldehyde.sdf,-5.42,282,2.492
+"A5_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A5.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.42,86,6.636
+A5_32_9-cis-Retinal,A5.pdb,32_9-cis-Retinal.sdf,-5.42,86,7.056
+A1_23_4-Hydroxynonenal,A1.pdb,23_4-Hydroxynonenal.sdf,-5.41,302,4.175
+A2_25_hexadecanal,A2.pdb,25_hexadecanal.sdf,-5.41,281,5.946
+A4_22_trans-2-Octenal,A4.pdb,22_trans-2-Octenal.sdf,-5.41,318,5.837
+A7_11_prop-2-enal,A7.pdb,11_prop-2-enal.sdf,-5.41,319,3.607
+A4_1_formaldehyde,A4.pdb,1_formaldehyde.sdf,-5.41,319,2.372
+A3_24_Tetradecanal,A3.pdb,24_Tetradecanal.sdf,-5.41,313,6.037
+A7_55_Ethanol,A7.pdb,55_Ethanol.sdf,-5.41,318,4.735
+A1_29_Salicylaldehyde,A1.pdb,29_Salicylaldehyde.sdf,-5.41,303,3.74
+A7_17_nonanal,A7.pdb,17_nonanal.sdf,-5.41,318,5.223
+A4_17_nonanal,A4.pdb,17_nonanal.sdf,-5.41,318,4.717
+A1_14_trans-2-Hexenal,A1.pdb,14_trans-2-Hexenal.sdf,-5.41,303,6.655
+"A3_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A3.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.41,313,4.551
+A3_29_Salicylaldehyde,A3.pdb,29_Salicylaldehyde.sdf,-5.41,314,3.967
+A3_28_Phenylacetaldehyde,A3.pdb,28_Phenylacetaldehyde.sdf,-5.41,314,5.167
+A3_22_trans-2-Octenal,A3.pdb,22_trans-2-Octenal.sdf,-5.41,313,5.285
+A1_18_decanal,A1.pdb,18_decanal.sdf,-5.41,302,4.504
+A4_45_adipate semialdehyde,A4.pdb,45_adipate semialdehyde.sdf,-5.41,319,4.151
+A3_27_Benzaldehyde,A3.pdb,27_Benzaldehyde.sdf,-5.41,314,4.0
+A1_4_malonaldehyde,A1.pdb,4_malonaldehyde.sdf,-5.41,303,2.469
+A1_44_glutarate semialdehyde,A1.pdb,44_glutarate semialdehyde.sdf,-5.41,303,4.294
+A5_3_propylaldehyde,A5.pdb,3_propylaldehyde.sdf,-5.41,86,7.536
+A7_24_Tetradecanal,A7.pdb,24_Tetradecanal.sdf,-5.41,318,5.32
+A4_33_11-cis-Retinol,A4.pdb,33_11-cis-Retinol.sdf,-5.41,318,6.933
+A3_1_formaldehyde,A3.pdb,1_formaldehyde.sdf,-5.41,314,2.669
+A4_8_hexanal,A4.pdb,8_hexanal.sdf,-5.41,318,4.504
+A2_22_trans-2-Octenal,A2.pdb,22_trans-2-Octenal.sdf,-5.41,281,5.846
+A4_44_glutarate semialdehyde,A4.pdb,44_glutarate semialdehyde.sdf,-5.41,318,3.235
+A2_17_nonanal,A2.pdb,17_nonanal.sdf,-5.41,282,2.49
+A4_6_amylaldehyde,A4.pdb,6_amylaldehyde.sdf,-5.41,319,4.119
+A1_25_hexadecanal,A1.pdb,25_hexadecanal.sdf,-5.4,302,5.319
+"A2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A2.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.4,281,9.768
+A2_32_9-cis-Retinal,A2.pdb,32_9-cis-Retinal.sdf,-5.4,281,9.599
+A6_46_Succinic semialdehyde,A6.pdb,46_Succinic semialdehyde.sdf,-5.4,466,10.546
+"A6_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A6.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.4,466,12.419
+A7_7_glutaraldehyde,A7.pdb,7_glutaraldehyde.sdf,-5.4,318,3.119
+A7_8_hexanal,A7.pdb,8_hexanal.sdf,-5.4,318,4.646
+A6_2_acetaldehyde,A6.pdb,2_acetaldehyde.sdf,-5.4,466,3.497
+A7_29_Salicylaldehyde,A7.pdb,29_Salicylaldehyde.sdf,-5.4,318,3.578
+A5_11_prop-2-enal,A5.pdb,11_prop-2-enal.sdf,-5.4,86,8.434
+A1_1_formaldehyde,A1.pdb,1_formaldehyde.sdf,-5.4,303,3.191
+A2_23_4-Hydroxynonenal,A2.pdb,23_4-Hydroxynonenal.sdf,-5.4,281,5.043
+A1_11_prop-2-enal,A1.pdb,11_prop-2-enal.sdf,-5.4,303,2.59
+A4_32_9-cis-Retinal,A4.pdb,32_9-cis-Retinal.sdf,-5.4,318,7.369
+A7_27_Benzaldehyde,A7.pdb,27_Benzaldehyde.sdf,-5.4,318,3.464
+A2_12_prop-2-ynal,A2.pdb,12_prop-2-ynal.sdf,-5.4,282,2.499
+A2_13_(2E)-but-2-enal,A2.pdb,13_(2E)-but-2-enal.sdf,-5.4,282,4.165
+A2_6_amylaldehyde,A2.pdb,6_amylaldehyde.sdf,-5.4,282,4.087
+A2_4_malonaldehyde,A2.pdb,4_malonaldehyde.sdf,-5.4,282,2.462
+A3_20_Citral,A3.pdb,20_Citral.sdf,-5.4,313,5.772
+A2_1_formaldehyde,A2.pdb,1_formaldehyde.sdf,-5.4,282,2.573
+A2_21_cis-2-Octenal,A2.pdb,21_cis-2-Octenal.sdf,-5.4,282,2.166
+A7_26_trans-2-hexadecenal,A7.pdb,26_trans-2-hexadecenal.sdf,-5.4,318,6.891
+A3_32_9-cis-Retinal,A3.pdb,32_9-cis-Retinal.sdf,-5.4,313,7.43
+A2_16_octanaldehyde,A2.pdb,16_octanaldehyde.sdf,-5.4,281,5.377
+A4_5_butyraldehyde,A4.pdb,5_butyraldehyde.sdf,-5.4,320,3.901
+A3_16_octanaldehyde,A3.pdb,16_octanaldehyde.sdf,-5.4,313,5.509
+A3_17_nonanal,A3.pdb,17_nonanal.sdf,-5.4,313,5.247
+A2_35_Cinnamaldehyde,A2.pdb,35_Cinnamaldehyde.sdf,-5.4,281,5.167
+A2_36_3-(4-Isopropylphenyl)-2-methylpropanal,A2.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.4,282,3.013
+A1_35_Cinnamaldehyde,A1.pdb,35_Cinnamaldehyde.sdf,-5.4,163,16.85
+A4_35_Cinnamaldehyde,A4.pdb,35_Cinnamaldehyde.sdf,-5.39,318,3.94
+A2_19_dodecanal,A2.pdb,19_dodecanal.sdf,-5.39,281,6.53
+A2_20_Citral,A2.pdb,20_Citral.sdf,-5.39,282,5.594
+A6_12_prop-2-ynal,A6.pdb,12_prop-2-ynal.sdf,-5.39,466,2.275
+A5_44_glutarate semialdehyde,A5.pdb,44_glutarate semialdehyde.sdf,-5.39,86,8.603
+"A7_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A7.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.39,318,3.163
+A7_22_trans-2-Octenal,A7.pdb,22_trans-2-Octenal.sdf,-5.39,318,5.036
+A5_23_4-Hydroxynonenal,A5.pdb,23_4-Hydroxynonenal.sdf,-5.39,86,5.737
+A4_10_4-guanidinobutyraldehyde,A4.pdb,10_4-guanidinobutyraldehyde.sdf,-5.39,318,3.524
+A4_14_trans-2-Hexenal,A4.pdb,14_trans-2-Hexenal.sdf,-5.39,318,4.951
+A6_21_cis-2-Octenal,A6.pdb,21_cis-2-Octenal.sdf,-5.39,466,2.71
+A7_23_4-Hydroxynonenal,A7.pdb,23_4-Hydroxynonenal.sdf,-5.39,318,3.558
+A2_15_heptanal,A2.pdb,15_heptanal.sdf,-5.39,282,4.521
+A7_28_Phenylacetaldehyde,A7.pdb,28_Phenylacetaldehyde.sdf,-5.39,318,3.744
+A1_22_trans-2-Octenal,A1.pdb,22_trans-2-Octenal.sdf,-5.39,302,5.541
+A1_15_heptanal,A1.pdb,15_heptanal.sdf,-5.39,163,16.597
+A4_23_4-Hydroxynonenal,A4.pdb,23_4-Hydroxynonenal.sdf,-5.39,318,4.562
+"A4_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A4.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.39,318,3.941
+A5_19_dodecanal,A5.pdb,19_dodecanal.sdf,-5.39,86,5.427
+A5_21_cis-2-Octenal,A5.pdb,21_cis-2-Octenal.sdf,-5.39,86,8.274
+A6_3_propylaldehyde,A6.pdb,3_propylaldehyde.sdf,-5.39,466,3.186
+A6_40_Furan-2-carbaldehyde,A6.pdb,40_Furan-2-carbaldehyde.sdf,-5.39,421,11.672
+A5_57_S-3-oxopropylglutathione,A5.pdb,57_S-3-oxopropylglutathione.sdf,-5.39,86,6.12
+A6_44_glutarate semialdehyde,A6.pdb,44_glutarate semialdehyde.sdf,-5.39,466,6.281
+A1_59_4-Hydroxynonenal_glutathione,A1.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.39,456,7.953
+A1_52_Triose phosphate,A1.pdb,52_Triose phosphate.sdf,-5.39,303,10.799
+A1_34_4-hydroxy-2-nonenal,A1.pdb,34_4-hydroxy-2-nonenal.sdf,-5.39,302,4.912
+"A2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A2.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.39,282,3.506
+A7_44_glutarate semialdehyde,A7.pdb,44_glutarate semialdehyde.sdf,-5.39,318,3.066
+A6_45_adipate semialdehyde,A6.pdb,45_adipate semialdehyde.sdf,-5.39,466,6.745
+A1_19_dodecanal,A1.pdb,19_dodecanal.sdf,-5.39,302,4.964
+A7_34_4-hydroxy-2-nonenal,A7.pdb,34_4-hydroxy-2-nonenal.sdf,-5.39,318,3.691
+A7_19_dodecanal,A7.pdb,19_dodecanal.sdf,-5.39,318,4.612
+A1_36_3-(4-Isopropylphenyl)-2-methylpropanal,A1.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.39,303,4.53
+A3_15_heptanal,A3.pdb,15_heptanal.sdf,-5.39,313,5.057
+A2_34_4-hydroxy-2-nonenal,A2.pdb,34_4-hydroxy-2-nonenal.sdf,-5.39,281,4.661
+A7_16_octanaldehyde,A7.pdb,16_octanaldehyde.sdf,-5.39,318,5.207
+A6_7_glutaraldehyde,A6.pdb,7_glutaraldehyde.sdf,-5.39,466,3.166
+A3_35_Cinnamaldehyde,A3.pdb,35_Cinnamaldehyde.sdf,-5.39,313,5.177
+A2_28_Phenylacetaldehyde,A2.pdb,28_Phenylacetaldehyde.sdf,-5.39,282,5.468
+A7_14_trans-2-Hexenal,A7.pdb,14_trans-2-Hexenal.sdf,-5.39,318,4.785
+A7_18_decanal,A7.pdb,18_decanal.sdf,-5.39,318,4.908
+A7_6_amylaldehyde,A7.pdb,6_amylaldehyde.sdf,-5.39,318,3.779
+A7_35_Cinnamaldehyde,A7.pdb,35_Cinnamaldehyde.sdf,-5.39,318,3.684
+A7_20_Citral,A7.pdb,20_Citral.sdf,-5.39,319,4.425
+A6_9_2-hydroxypropionaldehyde,A6.pdb,9_2-hydroxypropionaldehyde.sdf,-5.39,466,3.172
+A6_11_prop-2-enal,A6.pdb,11_prop-2-enal.sdf,-5.39,466,3.14
+A1_32_9-cis-Retinal,A1.pdb,32_9-cis-Retinal.sdf,-5.38,126,8.035
+A6_25_hexadecanal,A6.pdb,25_hexadecanal.sdf,-5.38,466,8.995
+A2_51_6R-Tetrahydrofolic acid,A2.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.38,281,5.429
+A6_55_Ethanol,A6.pdb,55_Ethanol.sdf,-5.38,466,3.325
+"A2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A2.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.38,281,5.249
+A7_13_(2E)-but-2-enal,A7.pdb,13_(2E)-but-2-enal.sdf,-5.38,318,4.255
+A6_16_octanaldehyde,A6.pdb,16_octanaldehyde.sdf,-5.38,466,6.52
+"A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A1.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.38,302,5.02
+A6_29_Salicylaldehyde,A6.pdb,29_Salicylaldehyde.sdf,-5.37,466,3.411
+A6_28_Phenylacetaldehyde,A6.pdb,28_Phenylacetaldehyde.sdf,-5.37,466,5.19
+A7_5_butyraldehyde,A7.pdb,5_butyraldehyde.sdf,-5.37,318,4.192
+"A6_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A6.pdb,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal.sdf",-5.37,466,5.935
+A5_59_4-Hydroxynonenal_glutathione,A5.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.37,86,7.51
+A3_42_Glutamate-5-semialdehyde,A3.pdb,42_Glutamate-5-semialdehyde.sdf,-5.37,314,4.783
+A1_51_6R-Tetrahydrofolic acid,A1.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.37,302,4.474
+A1_16_octanaldehyde,A1.pdb,16_octanaldehyde.sdf,-5.37,163,17.681
+A7_15_heptanal,A7.pdb,15_heptanal.sdf,-5.37,318,3.639
+A1_33_11-cis-Retinol,A1.pdb,33_11-cis-Retinol.sdf,-5.37,126,7.921
+A1_42_Glutamate-5-semialdehyde,A1.pdb,42_Glutamate-5-semialdehyde.sdf,-5.37,303,4.229
+A6_47_methylmalonate semialdehyde,A6.pdb,47_methylmalonate semialdehyde.sdf,-5.37,466,3.282
+A2_33_11-cis-Retinol,A2.pdb,33_11-cis-Retinol.sdf,-5.37,281,11.887
+A3_33_11-cis-Retinol,A3.pdb,33_11-cis-Retinol.sdf,-5.37,313,8.886
+A6_8_hexanal,A6.pdb,8_hexanal.sdf,-5.37,466,5.779
+"A5_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A5.pdb,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde.sdf",-5.37,86,7.697
+A5_26_trans-2-hexadecenal,A5.pdb,26_trans-2-hexadecenal.sdf,-5.37,86,8.002
+A4_34_4-hydroxy-2-nonenal,A4.pdb,34_4-hydroxy-2-nonenal.sdf,-5.37,318,3.547
+A4_26_trans-2-hexadecenal,A4.pdb,26_trans-2-hexadecenal.sdf,-5.37,318,7.43
+A6_27_Benzaldehyde,A6.pdb,27_Benzaldehyde.sdf,-5.37,466,3.566
+A5_24_Tetradecanal,A5.pdb,24_Tetradecanal.sdf,-5.37,86,5.982
+"A1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A1.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.37,126,7.807
+A6_5_butyraldehyde,A6.pdb,5_butyraldehyde.sdf,-5.37,466,3.923
+A6_35_Cinnamaldehyde,A6.pdb,35_Cinnamaldehyde.sdf,-5.37,466,6.035
+A6_34_4-hydroxy-2-nonenal,A6.pdb,34_4-hydroxy-2-nonenal.sdf,-5.37,466,5.932
+A6_20_Citral,A6.pdb,20_Citral.sdf,-5.36,466,6.218
+A6_13_(2E)-but-2-enal,A6.pdb,13_(2E)-but-2-enal.sdf,-5.36,466,3.816
+A6_14_trans-2-Hexenal,A6.pdb,14_trans-2-Hexenal.sdf,-5.36,466,7.124
+A6_15_heptanal,A6.pdb,15_heptanal.sdf,-5.36,466,5.372
+A7_49_2-Aminomuconic semialdehyde,A7.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.36,318,4.405
+A6_18_decanal,A6.pdb,18_decanal.sdf,-5.36,466,7.459
+A6_23_4-Hydroxynonenal,A6.pdb,23_4-Hydroxynonenal.sdf,-5.36,466,6.669
+A5_12_prop-2-ynal,A5.pdb,12_prop-2-ynal.sdf,-5.36,86,6.679
+A5_25_hexadecanal,A5.pdb,25_hexadecanal.sdf,-5.35,86,6.822
+A6_24_Tetradecanal,A6.pdb,24_Tetradecanal.sdf,-5.35,466,9.525
+A6_19_dodecanal,A6.pdb,19_dodecanal.sdf,-5.35,466,8.614
+A3_10_4-guanidinobutyraldehyde,A3.pdb,10_4-guanidinobutyraldehyde.sdf,-5.35,314,4.441
+A4_59_4-Hydroxynonenal_glutathione,A4.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.35,179,17.489
+"A3_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A3.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.34,313,9.709
+A6_6_amylaldehyde,A6.pdb,6_amylaldehyde.sdf,-5.34,466,4.277
+A7_33_11-cis-Retinol,A7.pdb,33_11-cis-Retinol.sdf,-5.34,318,8.589
+A5_33_11-cis-Retinol,A5.pdb,33_11-cis-Retinol.sdf,-5.34,86,8.044
+A6_36_3-(4-Isopropylphenyl)-2-methylpropanal,A6.pdb,36_3-(4-Isopropylphenyl)-2-methylpropanal.sdf,-5.34,466,4.302
+A6_26_trans-2-hexadecenal,A6.pdb,26_trans-2-hexadecenal.sdf,-5.34,466,9.876
+A6_17_nonanal,A6.pdb,17_nonanal.sdf,-5.33,466,6.306
+A3_43_Glutamate-1-semialdehyde,A3.pdb,43_Glutamate-1-semialdehyde.sdf,-5.33,314,3.711
+A6_22_trans-2-Octenal,A6.pdb,22_trans-2-Octenal.sdf,-5.33,466,7.417
+A7_32_9-cis-Retinal,A7.pdb,32_9-cis-Retinal.sdf,-5.33,318,9.343
+"A7_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A7.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.33,318,9.317
+A2_41_Indole-3-acetaldehyde,A2.pdb,41_Indole-3-acetaldehyde.sdf,-5.33,281,5.111
+A4_43_Glutamate-1-semialdehyde,A4.pdb,43_Glutamate-1-semialdehyde.sdf,-5.33,319,2.056
+A1_40_Furan-2-carbaldehyde,A1.pdb,40_Furan-2-carbaldehyde.sdf,-5.31,163,17.594
+A2_43_Glutamate-1-semialdehyde,A2.pdb,43_Glutamate-1-semialdehyde.sdf,-5.31,282,3.485
+A3_41_Indole-3-acetaldehyde,A3.pdb,41_Indole-3-acetaldehyde.sdf,-5.31,174,17.443
+A1_49_2-Aminomuconic semialdehyde,A1.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.3,302,5.21
+A5_52_Triose phosphate,A5.pdb,52_Triose phosphate.sdf,-5.3,86,11.875
+A1_48_alpha-aminoadipate semialdehyde,A1.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.3,303,5.26
+A6_32_9-cis-Retinal,A6.pdb,32_9-cis-Retinal.sdf,-5.3,466,11.091
+A4_41_Indole-3-acetaldehyde,A4.pdb,41_Indole-3-acetaldehyde.sdf,-5.3,179,17.127
+A7_40_Furan-2-carbaldehyde,A7.pdb,40_Furan-2-carbaldehyde.sdf,-5.29,319,16.727
+A5_49_2-Aminomuconic semialdehyde,A5.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.29,86,6.899
+A3_48_alpha-aminoadipate semialdehyde,A3.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.28,313,5.83
+A6_33_11-cis-Retinol,A6.pdb,33_11-cis-Retinol.sdf,-5.28,466,11.625
+A5_50_10-formyltetrahydrofolate,A5.pdb,50_10-formyltetrahydrofolate.sdf,-5.27,86,5.938
+A2_42_Glutamate-5-semialdehyde,A2.pdb,42_Glutamate-5-semialdehyde.sdf,-5.27,282,4.062
+A5_51_6R-Tetrahydrofolic acid,A5.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.27,86,5.277
+A5_1_formaldehyde,A5.pdb,1_formaldehyde.sdf,-5.27,152,22.081
+A2_39_4-nitrobenzaldehyde,A2.pdb,39_4-nitrobenzaldehyde.sdf,-5.27,281,5.998
+A4_39_4-nitrobenzaldehyde,A4.pdb,39_4-nitrobenzaldehyde.sdf,-5.26,319,3.364
+"A6_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A6.pdb,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal.sdf",-5.26,466,12.603
+A5_39_4-nitrobenzaldehyde,A5.pdb,39_4-nitrobenzaldehyde.sdf,-5.26,86,6.256
+A1_41_Indole-3-acetaldehyde,A1.pdb,41_Indole-3-acetaldehyde.sdf,-5.25,163,17.235
+A2_49_2-Aminomuconic semialdehyde,A2.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.25,281,5.347
+A1_10_4-guanidinobutyraldehyde,A1.pdb,10_4-guanidinobutyraldehyde.sdf,-5.24,163,17.935
+A1_50_10-formyltetrahydrofolate,A1.pdb,50_10-formyltetrahydrofolate.sdf,-5.24,302,4.608
+A1_39_4-nitrobenzaldehyde,A1.pdb,39_4-nitrobenzaldehyde.sdf,-5.24,163,17.138
+A1_43_Glutamate-1-semialdehyde,A1.pdb,43_Glutamate-1-semialdehyde.sdf,-5.23,303,2.522
+A3_49_2-Aminomuconic semialdehyde,A3.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.23,313,5.482
+A6_49_2-Aminomuconic semialdehyde,A6.pdb,49_2-Aminomuconic semialdehyde.sdf,-5.22,466,5.939
+A3_40_Furan-2-carbaldehyde,A3.pdb,40_Furan-2-carbaldehyde.sdf,-5.22,314,17.061
+A5_58_S-(4-oxobutan-2-yl)glutathione,A5.pdb,58_S-(4-oxobutan-2-yl)glutathione.sdf,-5.22,86,6.343
+A2_10_4-guanidinobutyraldehyde,A2.pdb,10_4-guanidinobutyraldehyde.sdf,-5.21,282,4.513
+A6_10_4-guanidinobutyraldehyde,A6.pdb,10_4-guanidinobutyraldehyde.sdf,-5.21,466,5.107
+A6_42_Glutamate-5-semialdehyde,A6.pdb,42_Glutamate-5-semialdehyde.sdf,-5.21,466,5.408
+A6_48_alpha-aminoadipate semialdehyde,A6.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.21,466,6.003
+A6_59_4-Hydroxynonenal_glutathione,A6.pdb,59_4-Hydroxynonenal_glutathione.sdf,-5.21,421,9.622
+A5_53_Pyridoxal phosphate,A5.pdb,53_Pyridoxal phosphate.sdf,-5.19,86,5.261
+A6_39_4-nitrobenzaldehyde,A6.pdb,39_4-nitrobenzaldehyde.sdf,-5.19,466,6.724
+A3_39_4-nitrobenzaldehyde,A3.pdb,39_4-nitrobenzaldehyde.sdf,-5.19,174,17.463
+A1_53_Pyridoxal phosphate,A1.pdb,53_Pyridoxal phosphate.sdf,-5.18,163,16.906
+A2_48_alpha-aminoadipate semialdehyde,A2.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.18,282,4.581
+A6_51_6R-Tetrahydrofolic acid,A6.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.18,421,12.22
+A4_53_Pyridoxal phosphate,A4.pdb,53_Pyridoxal phosphate.sdf,-5.18,319,16.418
+A6_43_Glutamate-1-semialdehyde,A6.pdb,43_Glutamate-1-semialdehyde.sdf,-5.17,466,6.734
+A4_50_10-formyltetrahydrofolate,A4.pdb,50_10-formyltetrahydrofolate.sdf,-5.17,318,7.131
+A5_48_alpha-aminoadipate semialdehyde,A5.pdb,48_alpha-aminoadipate semialdehyde.sdf,-5.17,86,7.375
+A5_42_Glutamate-5-semialdehyde,A5.pdb,42_Glutamate-5-semialdehyde.sdf,-5.16,86,6.565
+A5_43_Glutamate-1-semialdehyde,A5.pdb,43_Glutamate-1-semialdehyde.sdf,-5.16,86,7.025
+A7_53_Pyridoxal phosphate,A7.pdb,53_Pyridoxal phosphate.sdf,-5.15,319,15.176
+A4_40_Furan-2-carbaldehyde,A4.pdb,40_Furan-2-carbaldehyde.sdf,-5.14,319,18.259
+A3_50_10-formyltetrahydrofolate,A3.pdb,50_10-formyltetrahydrofolate.sdf,-5.13,314,15.025
+A3_53_Pyridoxal phosphate,A3.pdb,53_Pyridoxal phosphate.sdf,-5.11,314,14.185
+A5_41_Indole-3-acetaldehyde,A5.pdb,41_Indole-3-acetaldehyde.sdf,-5.1,86,6.886
+A3_51_6R-Tetrahydrofolic acid,A3.pdb,51_6R-Tetrahydrofolic acid.sdf,-5.08,314,16.41
+A6_50_10-formyltetrahydrofolate,A6.pdb,50_10-formyltetrahydrofolate.sdf,-5.08,421,11.635
+A6_53_Pyridoxal phosphate,A6.pdb,53_Pyridoxal phosphate.sdf,-5.05,421,12.859
+A5_10_4-guanidinobutyraldehyde,A5.pdb,10_4-guanidinobutyraldehyde.sdf,-5.01,86,6.082
